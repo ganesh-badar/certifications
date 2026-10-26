@@ -34,7 +34,7 @@ A verified, documented record of professional credentials, internship certificat
 
 | Domain | Competencies & Standards | Verification Proof |
 | :--- | :--- | :--- |
-| **Frontend Foundations** | Semantic HTML5, CSS3 Grid & Flexbox, Box Model, Vanilla JavaScript (ES6+) | [Amazon Clone UI](https://github.com/ganesh-badar/amazon-clone-ui) |
+| **Frontend Foundations** | Semantic HTML5, CSS3 Grid & Flexbox, Box Model, Vanilla JavaScript (ES6+) | [Developer Portfolio](https://github.com/ganesh-badar/portfolio) |
 | **Practical Experience** | 1-Month Web Development Internship (Prodigy InfoTech) | [PIT/DEC25/11198](./Prodigy_InfoTech_Web_Development_Certificate.pdf) |
 | **Responsive Web Design** | Multi-breakpoint media queries (Mobile, Tablet, Desktop), WCAG Accessibility | [Developer Portfolio](https://github.com/ganesh-badar/portfolio) |
 | **Version Control** | Git repository management, GitHub Pages static hosting, issue tracking | [GitHub Profile](https://github.com/ganesh-badar) |
